@@ -1,4 +1,4 @@
-# Meow-AutoClick1.0(Windows 64bit)
+# Meow-AutoClick
 ### Automatically click the mouse and shutdown your PC at a preset time.
 ## [Download the Software](https://drive.google.com/open?id=1nMhzmiawp6LExnaBsTZfsEl2jGQqCNYj)
 ## How to use:
@@ -38,7 +38,7 @@ If you find this useful for you and want to support the author to develop more u
 ## Updates:
 Updates are available on [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
 
-# 喵喵咪鼠标自动点击器1.0(Win 64位)使用说明
+# 喵喵咪鼠标自动点击器使用说明
 ## [软件下载](https://pan.baidu.com/s/1d42XrGRpXGwrVfLPQLNIBQ)
 ### 压缩包不要解压出来(解压后占用空间较大), 使用时直接点击压缩包中的exe文件即可.
 
