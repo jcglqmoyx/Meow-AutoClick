@@ -1,6 +1,6 @@
 # Meow-AutoClick
 ### Automatically click the mouse and shutdown your PC at a preset time.
-## [Download the Software](https://drive.google.com/open?id=1nMhzmiawp6LExnaBsTZfsEl2jGQqCNYj)
+## [Download the Software](https://drive.google.com/file/d/1tp69cCTnC9qTkuhBuvmF5gK4NMrGzGaj/view?usp=sharing)
 ## How to use:
 ### Do not unzip the archive, click the executable file and start the program.
 1. Click Hotkey to register hotkeys for the operations.
