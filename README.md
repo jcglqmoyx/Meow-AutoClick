@@ -39,7 +39,8 @@ If you find this useful for you and want to support the author to develop more u
 Updates are available on [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
 
 # 喵喵咪鼠标自动点击器使用说明
-## [软件下载](https://pan.baidu.com/s/1d42XrGRpXGwrVfLPQLNIBQ)
+## [软件下载](链接：https://pan.baidu.com/s/1AN05SITcH_SSd2QimNeHww 
+提取码：feyb)
 ### 压缩包不要解压出来(解压后占用空间较大), 使用时直接点击压缩包中的exe文件即可.
 
 1. 点击菜单栏的Hotkey, 注册热键。
@@ -72,10 +73,10 @@ Updates are available on [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
    您的捐赠将帮助作者完成版本升级以及开发更好的版本, 捐赠数额达到一定数量将进行版本的升级.
 
 #### 微信捐赠 
-![](https://github.com/jcglqmoyx/Meow-AutoClick_1.0_Windows_64bit/blob/master/donate/WeChat.jpg)
+![](https://github.com/jcglqmoyx/Meow-AutoClick/blob/master/donate/WechatPay.png)
 
 #### 支付宝捐赠
-![](https://github.com/jcglqmoyx/Meow-AutoClick_1.0_Windows_64bit/blob/master/donate/Alipay.jpg)
+![](https://github.com/jcglqmoyx/Meow-AutoClick/blob/master/donate/Alipay.jpg)
 
 ### 软件更新信息 : 软件更新信息详见 [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick_1.0_Windows_64bit)
 
