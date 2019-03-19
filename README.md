@@ -39,7 +39,7 @@ If you find this useful for you and want to support the author to develop more u
 Updates are available on [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
 
 # 喵喵咪鼠标自动点击器使用说明
-## [软件下载](https://pan.baidu.com/s/1AN05SITcH_SSd2QimNeHww) 提取码：feyb
+## [软件下载](https://pan.baidu.com/s/1AN05SITcH_SSd2QimNeHww)  提取码：feyb
 ### 压缩包不要解压出来(解压后占用空间较大), 使用时直接点击压缩包中的exe文件即可.
 
 1. 点击菜单栏的Hotkey, 注册热键。
