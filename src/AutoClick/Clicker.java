@@ -1,6 +1,6 @@
 package AutoClick;
 
-//点击间隔比实际设置的慢, 注意!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+//the interval of clicking is actually slower than you set it to be!!! LOL
 import java.awt.Color;
 import java.awt.MouseInfo;
 import java.awt.Point;
@@ -8,7 +8,7 @@ import java.awt.Robot;
 import java.awt.event.InputEvent;
 import java.util.ArrayList;
 
-class SelectColor { // 取色类
+class SelectColor { // selecting-color class
     Color color;
     Boolean selectColor;
 
