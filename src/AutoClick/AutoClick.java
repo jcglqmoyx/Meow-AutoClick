@@ -331,7 +331,7 @@ public class AutoClick extends JFrame {
             timeIntervalSpinner[i].
                     setToolTipText("input a number between 0 - 9");
         /*
-         * 限制JSpinner中不合法的输入
+         * disable illegal inputs in JSpinner
          */
         for (int i = 0; i < timeIntervalSpinner.length; i++) {
             JSpinner.NumberEditor editor = new JSpinner.NumberEditor(timeIntervalSpinner[i], "0");
