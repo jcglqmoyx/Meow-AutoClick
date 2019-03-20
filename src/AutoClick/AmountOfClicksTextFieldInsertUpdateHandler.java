@@ -1,7 +1,7 @@
 package AutoClick;
 
 /*
- * 实时监测AmoutOfClicksTextField的输入, 更新点击次数
+ * keep tracking of the input of AmoutOfClicksTextField, update the number of clicks in time
  * https://blog.csdn.net/joy_125/article/details/45742345
  */
 import javax.swing.event.DocumentEvent;
