@@ -5,7 +5,7 @@ import java.awt.event.KeyListener;
 
 public class AmountOfClicksTextFieldHandler implements KeyListener {
     /*
-     * 限制不合法输入
+     * disable invalid input
      */
     @Override
     public void keyTyped(KeyEvent e) {
