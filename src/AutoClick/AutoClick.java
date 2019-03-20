@@ -12,12 +12,12 @@ public class AutoClick extends JFrame {
     static final int GLOBAL_HOT_KEY_1 = 0; // the first hotkey(clicking hotkey)
     static final int GLOBAL_HOT_KEY_2 = 1; // the second hotkey(recording hotkey)
     static final int GLOBAL_HOT_KEY_3 = 2; // the third hotkey(selecting-color hotkey)
-    static int CLICK_HOT_KEY;//用户所选则的记录热键对应的值
-    static int RECORD_HOT_KEY;
+    static int CLICK_HOT_KEY;//the corresponding Keycode for the clicking hotkey that the user chooses
+    static int RECORD_HOT_KEY;//the corresponding Keycode for the recording hotkey that the user chooses
     static int SELECT_COLOR_HOT_KEY;
 
-    private static long clickInterval;// 点击时间间隔
-    static JCheckBox normalizeFrameState;// 使窗口正常化
+    private static long clickInterval;// the time interval of clicking
+    static JCheckBox normalizeFrameState;// normalize the window
     private final JLabel timeInterval[] = {new JLabel("hour"), new JLabel("minute"), new JLabel("second"), new JLabel("   0.1s"),
             new JLabel("  0.01s"), new JLabel(" 0.001s")};
 
@@ -83,15 +83,15 @@ public class AutoClick extends JFrame {
             @Override
             public void itemStateChanged(ItemEvent e) {
                 if (normalizeFrameState.isSelected() == true)
-                    setState(JFrame.ICONIFIED);// 窗口最小化
+                    setState(JFrame.ICONIFIED);// minimalize the window
                 else if (normalizeFrameState.isSelected() == false)
-                    setState(JFrame.NORMAL);// 窗口正常化
+                    setState(JFrame.NORMAL);// normalize the window
             }
         });
 
         add(normalizeFrameState);
 
-        JIntellitype.getInstance().addHotKeyListener(new HotKeyHandler());// 注册事件处理器
+        JIntellitype.getInstance().addHotKeyListener(new HotKeyHandler());
         setLanguage = new JMenu("语言(L)");
         setLanguage.setMnemonic('L');
         JMenuItem en = new JMenuItem("English");
@@ -207,7 +207,8 @@ public class AutoClick extends JFrame {
                             RECORD_HOT_KEY = n +27;
                         }
                         /*
-                         * 注册快捷键(录制快捷键) n+112为相应键的Keycode值, 例如当n==0时, 该键为F1键, Keycode值为112
+                         *register hotkey(recording hotkey), n + 112 is the corresponding Keycode for the hotkey, 
+                         * eg: when n == 0, the hotkey will be F1, whose Keycode is 112
                          */
                     } else {
                         clickHotKeys[n].setEnabled(true);
