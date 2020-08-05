@@ -65,7 +65,7 @@ Updates are available on [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
 10. 如果想清除记录可以按下”Clear ”(清除)按钮。
 
 ### 作者: Chintsai Hwo (完成了软件的主要部分)
-   微信: 17863152976, QQ同号    [微博](https://www.weibo.com/u/5530569595)
+   微信: 17812733694, QQ同号    [微博](https://www.weibo.com/u/5530569595)
 ### Andrew Thompson(放大镜功能的实现)
 
 ## 捐赠 
@@ -75,7 +75,7 @@ Updates are available on [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
 ![](https://github.com/jcglqmoyx/Meow-AutoClick/blob/master/donate/WechatPay.png)
 
 #### 支付宝捐赠
-![](https://github.com/jcglqmoyx/Meow-AutoClick/blob/master/donate/Alipay.jpg)
+17812733694（请添加备注，以明确转账来源）
 
 ### 软件更新信息 : 软件更新信息详见 [GitHub](https://github.com/jcglqmoyx/Meow-AutoClick)
 
