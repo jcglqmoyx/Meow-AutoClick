@@ -27,7 +27,7 @@
 ## Author: 
 Chintsai Hwo (completed the main the part of the program)
 
-[Facebook](https://www.facebook.com/ChintsaiHwo)    [Twitter](https://twitter.com/ChintsaiHwo)    [Instagram](https://www.instagram.com/jcglqm/)     [YouTube](https://www.youtube.com/channel/UCMt0affgpxiqz18fEekiDgQ?view_as=subscriber)
+[Facebook](https://www.facebook.com/ChintsaiHwo)    [Twitter](https://twitter.com/ChintsaiHwo)    [Instagram](https://www.instagram.com/chintsaihwo/)     [YouTube](https://www.youtube.com/channel/UCMt0affgpxiqz18fEekiDgQ?view_as=subscriber)
 
 Andrew Thompson (wrote the magnifying glass part in the program)
 
