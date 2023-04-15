@@ -1,4 +1,5 @@
 # Meow-AutoClick
+## This repository has been archived and won't be actively developed. Please use the new app [auto-click](https://github.com/jcglqmoyx/auto-click).
 ### Automatically click the mouse and shutdown your PC at a preset time.
 ## How to use:
 ### Do not unzip the archive, click the executable file and start the program.
